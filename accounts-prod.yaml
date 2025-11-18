@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to DemoBank accounts related Prod APIs"
+  message: "Welcome to DemoBank accounts related Production APIs"
   contactDetails:
     name: "John Smith - Product Owner"
     email: "{cipher}4a3ad4096f2ba985f90dec67cfb64b429d6600d6143629f6935f18dd9375eef0d58c648ec245c40ec184d249a1a05bff"
