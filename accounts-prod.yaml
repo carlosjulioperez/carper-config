@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to DemoBank accounts related Prod APIs"
   contactDetails:
     name: "John Smith - Product Owner"
-    email: "johnsmith@gmail.com"
+    email: "{cipher}4a3ad4096f2ba985f90dec67cfb64b429d6600d6143629f6935f18dd9375eef0d58c648ec245c40ec184d249a1a05bff"
   onCallSupport:
     - (333) 555-1234
     - (333) 777-1234
